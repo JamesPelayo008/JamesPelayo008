@@ -18,4 +18,5 @@
 
 [email]: 
 
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://www.linkedin.com/in/james-pelayo-6b7a28262/
+
